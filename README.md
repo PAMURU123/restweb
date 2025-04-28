@@ -612,17 +612,13 @@ contact.html
 
 ## OUTPUT:
 
-![alt text](home1.png)
+![image](https://github.com/user-attachments/assets/bc88d944-3f28-481d-a728-c4a305735bc2)
+![image](https://github.com/user-attachments/assets/30f1b612-87d6-41f9-bca9-897a5ef71be7)
+![image](https://github.com/user-attachments/assets/3b9339e1-2696-4278-a99b-b62d4e4686e6)
+![image](https://github.com/user-attachments/assets/42d93364-862a-4c47-9fa1-6a2c4c895c3c)
+![image](https://github.com/user-attachments/assets/3140c918-7106-4276-89bf-5aa5ca68f28c)
+![image](https://github.com/user-attachments/assets/07441125-05e0-4856-8de1-b1168e2f8d9a)
 
-![alt text](home2.png)
-
-![alt text](menu.png)
-
-![alt text](contact.png)
-
-![alt text](booktable.png)
-
-![alt text](adminstration.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
